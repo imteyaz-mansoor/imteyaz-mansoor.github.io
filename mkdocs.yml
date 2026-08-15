@@ -28,7 +28,7 @@ theme:
     - navigation.tabs.sticky    # Garde le menu en haut même quand on descend
 nav:
   - Accueil: index.md
-
+  - Agrégation: agregation.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
