@@ -2,7 +2,7 @@ site_name: "Imteyaz MANSOOR"
 theme:
   name: material
   language: fr
-  custom_dir: overrides
+  # custom_dir: overrides
   logo: 
   font:
     text: Roboto      # Police pour le texte classique (ex: Roboto, Fira Sans, Open Sans)
@@ -27,14 +27,14 @@ theme:
     - navigation.tabs           # Active la barre de menu en haut
     - navigation.tabs.sticky    # Garde le menu en haut même quand on descend
 nav:
-  - Accueil: index.md
+  - Accueil: #index.md
   - Seconde:
-    - Fonctions: seconde/fonctions.md
-    - Vecteurs: seconde/vecteurs.md
-  - Colles: colles.md
-  - Agrégation: agregation.md
-  - Publications: publications.md
-  - Liens utiles: liens_utiles.md
+    - Fonctions: #seconde/fonctions.md
+    - Vecteurs: #seconde/vecteurs.md
+  - Colles: #colles.md
+  - Agrégation: #agregation.md
+  - Publications:# publications.md
+  - Liens utiles: #liens_utiles.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
@@ -42,8 +42,8 @@ markdown_extensions:
 
 extra:
   generator: false
-extra_css:
-  - stylesheets/extra.css
-extra_javascript:
-  - javascripts/mathjax.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+#extra_css:
+#  - stylesheets/extra.css
+#extra_javascript:
+#  - javascripts/mathjax.js
+#  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
