@@ -1,0 +1,49 @@
+site_name: "Imteyaz MANSOOR"
+theme:
+  name: material
+  language: fr
+  custom_dir: overrides
+  logo: 
+  font:
+    text: Roboto      # Police pour le texte classique (ex: Roboto, Fira Sans, Open Sans)
+    code: Roboto Mono # Police pour les blocs de code et algorithmes
+  palette:
+    # Mode clair
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Passer au mode sombre
+
+    # Mode sombre
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Passer au mode clair
+  features:
+    - navigation.tabs           # Active la barre de menu en haut
+    - navigation.tabs.sticky    # Garde le menu en haut même quand on descend
+nav:
+  - Accueil: index.md
+  - Seconde:
+    - Fonctions: seconde/fonctions.md
+    - Vecteurs: seconde/vecteurs.md
+  - Colles: colles.md
+  - Agrégation: agregation.md
+  - Publications: publications.md
+  - Liens utiles: liens_utiles.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+extra:
+  generator: false
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
