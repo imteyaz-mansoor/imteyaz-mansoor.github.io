@@ -30,6 +30,7 @@ nav:
   - Accueil: index.md
   - Colles: colles.md
   - Agrégation: agregation.md
+    - Développements: dev.md
   - Liens utiles: lien_utile.md
 
 markdown_extensions:
