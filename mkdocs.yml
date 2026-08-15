@@ -29,6 +29,7 @@ theme:
 nav:
   - Accueil: index.md
   - Agrégation: agregation.md
+  - Liens utiles: lien_utile.md
 
 markdown_extensions:
   - pymdownx.arithmatex:
