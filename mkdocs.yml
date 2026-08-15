@@ -28,6 +28,7 @@ theme:
     - navigation.tabs.sticky    # Garde le menu en haut même quand on descend
 nav:
   - Accueil: index.md
+  - Colles: colles.md
   - Agrégation: agregation.md
   - Liens utiles: lien_utile.md
 
