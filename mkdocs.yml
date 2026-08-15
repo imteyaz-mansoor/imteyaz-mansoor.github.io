@@ -27,14 +27,8 @@ theme:
     - navigation.tabs           # Active la barre de menu en haut
     - navigation.tabs.sticky    # Garde le menu en haut même quand on descend
 nav:
-  - Accueil: #index.md
-  - Seconde:
-    - Fonctions: #seconde/fonctions.md
-    - Vecteurs: #seconde/vecteurs.md
-  - Colles: #colles.md
-  - Agrégation: #agregation.md
-  - Publications:# publications.md
-  - Liens utiles: #liens_utiles.md
+  - Accueil: index.md
+
 
 markdown_extensions:
   - pymdownx.arithmatex:
