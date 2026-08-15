@@ -3,5 +3,7 @@
 * Site de [Louis Lascaud](https://louis-lascaud.github.io), amateur de Lyapounov en thèse à Limoges.
 * Site de [Mathilde Bocquet](https://mathildebocquet.github.io/) trex
 * Site de [Romain Delaunay](https://delaunay-romain.github.io) japonisant
+
+  (description en cours)
 # Polycopié bien senti
 * Polycopié de [moyen mnémotechnique gaulois](./pdfs/gaulois.pdf)
