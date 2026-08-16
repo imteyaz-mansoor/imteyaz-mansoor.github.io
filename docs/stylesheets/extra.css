@@ -1,0 +1,7 @@
+article a, .md-content a {
+  color: #007acc;
+}
+
+article a:hover, .md-content a:hover {
+  color: #00548f;
+}
