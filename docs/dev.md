@@ -5,7 +5,7 @@
 * Voici une preuve de [la réduction des endomorphismes normaux](pdfs/endo_normaux.pdf) sur $\mathbb{C}$, puis sur $\mathbb{R}$.
 * Le [théorème des extrema liés](pdfs/Extrema_lie.pdf), dont la preuve est adaptée du *Variational calculus with elementary convexity* de JL Troutman.
 * Le [théorème de projection sur un convexe fermé](pdfs/projconv.pdf), ainsi qu'une application bien sentie à la méthode du gradient projetée.
-* Le fameux [théorème des deux carrés ](pdfs/2carre.pdf)de $\mathbb{Z}[i]$ (sous une version alternative).
+* Un fameux [théorème des deux carrés ](pdfs/2carre.pdf)de $\mathbb{Z}[i]$.
 
 
 
