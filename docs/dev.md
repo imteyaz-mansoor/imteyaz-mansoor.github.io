@@ -7,4 +7,9 @@
 * Le [théorème de projection sur un convexe fermé](pdfs/projconv.pdf), ainsi qu'une application bien sentie à la méthode du gradient projetée.
 * Le fameux [théorème des deux carrés ](pdfs/2carre.pdf)de $\mathbb{Z}[i]$ (sous une version alternative).
 
-![](images/developpement.jpg)
+
+
+&nbsp;
+![](images/montelriemann.jpeg)
+*Théorème de Montel et théorème de représentation conforme de Riemann*
+
