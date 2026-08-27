@@ -11,5 +11,5 @@
 
 &nbsp;
 ![](images/montelriemann.jpeg)
-*Théorème de Montel et théorème de représentation conforme de Riemann*
+*Théorème de Montel et théorème de représentation conforme de Riemann (réalisé avec Louis)*
 
