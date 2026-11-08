@@ -5,3 +5,4 @@
 * [semaine 2](pdfs/colles/colle_2.pdf): sommes et produits
 * [semaine 3](pdfs/colles/colle_3.pdf): complexes
 * [semaine 4](pdfs/colles/colle_4.pdf): ensembles
+* [semaine 5](pdfs/colles/colle_5.pdf): dérivabilité, TVI
