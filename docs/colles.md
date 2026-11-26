@@ -8,3 +8,5 @@
 * [semaine 5](pdfs/colles/colle_5.pdf): dérivabilité, TVI
 * [semaine 6](pdfs/colles/colle_6.pdf): fonctions usuelles
 * [semaine 7](pdfs/colles/colle_7.pdf): primitives, équations différentielles
+* [semaine 8](pdfs/colles/colle_8.pdf): applications
+* 
